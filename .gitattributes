@@ -1,1 +1,2 @@
-100%  Bash
+*.md linguist-detectable=true
+*.md linguist-language=Markdown
